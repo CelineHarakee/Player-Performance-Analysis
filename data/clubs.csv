@@ -1,0 +1,412 @@
+club_id,club_code,club_name,domestic_competition_id,squad_size,average_age,foreigners_number,foreigners_percentage,national_team_players,stadium_name,stadium_seats,last_season
+127,sc-paderborn-07,null,L1,26,25.7,5,19.2,1,Home Deluxe Arena,15000,2019
+192,roda-jc-kerkrade,null,NL1,25,23.9,9,36,0,Parkstad Limburg Stadion,19979,2017
+2239,us-cremonese,US Cremonese,IT1,26,26,12,46.2,7,Giovanni Zini,16003,2022
+2423,cd-santa-clara,CD Santa Clara,PO1,31,25.8,20,64.5,2,Estádio de São Miguel,15000,2022
+24245,umraniyespor,Ümraniyespor,TR1,24,28.4,10,41.7,3,Ümraniye Belediyesi Şehir Stadı,3513,2022
+2553,kilmarnock-fc,Kilmarnock FC,SC1,27,25.7,16,59.3,1,"BBSP Stadium, Rugby Park",18128,2022
+26459,nk-veres-rivne,null,UKR1,22,27.1,0,,0,Stadion Avangard (2022),10000,2022
+2671,pas-giannina,PAS Giannina,GR1,31,25.4,14,45.2,0,Stadio Zosimades,7652,2022
+2919,ac-monza,AC Monza,IT1,30,26.8,9,30,4,U-Power Stadium - Brianteo,15039,2022
+3205,kayserispor,Kayserispor,TR1,28,25.6,13,46.4,3,RHG Enertürk Enerji Stadyumu,32864,2022
+383,psv-eindhoven,PSV Eindhoven,NL1,24,25.5,14,58.3,8,Philips Stadion,35000,2022
+3948,royale-union-saint-gilloise,Royale Union Saint Gilloise,BE1,24,25,17,70.8,6,Stade Joseph Mariën,8000,2022
+41274,beerschot-v-a-,null,BE1,26,23.9,12,46.2,2,Olympisch Stadion,12771,2021
+475,vv-st-truiden,Sint-Truidense VV,BE1,23,26.3,15,65.2,3,Stayen,14600,2022
+48726,rukh-lviv,Rukh Lviv,UKR1,27,22.8,6,22.2,0,Arena Lviv,34512,2022
+498,ksc-lokeren,null,BE1,0,,0,,0,Daknamstadion,12000,2018
+5358,sd-huesca,null,ES1,24,27.4,8,33.3,2,El Alcoraz,9128,2020
+553,ionikos-nikeas,Ionikos Nikeas,GR1,27,28.6,16,59.3,1,Dimotiko Gipedo Neapolis,6000,2022
+60,sc-freiburg,SC Freiburg,L1,26,26.2,10,38.5,10,Europa-Park Stadion,34700,2022
+603,cardiff-city,null,GB1,28,25.5,24,85.7,8,Cardiff City Stadium,33280,2018
+607,venezia-fc,null,IT1,27,25.6,17,63,4,Pier Luigi Penzo,11150,2021
+6574,us-sassuolo,US Sassuolo,IT1,26,25.8,15,57.7,8,Mapei Stadium - Città del Tricolore,21584,2022
+6646,fatih-karagumruk,Fatih Karagümrük,TR1,30,26.2,17,56.7,4,Atatürk Olimpiyat,74753,2022
+667,rc-strassburg-alsace,RC Strasbourg Alsace,FR1,26,26.6,11,42.3,8,Stade de la Meinau,29000,2022
+855,ea-guingamp,null,FR1,27,25.4,7,25.9,1,Stade du Roudourou,18120,2018
+8838,zirka-kropyvnytskyi,null,UKR1,7,27.3,0,,0,Zirka,14628,2017
+897,deportivo-la-coruna,null,ES1,24,27.7,3,12.5,0,Abanca Riazor,32912,2017
+1039,queens-park-rangers,null,GB1,26,25.9,15,57.7,8,Loftus Road Stadium,18360,2014
+1084,fc-malaga,null,ES1,27,27.9,8,29.6,0,La Rosaleda,30044,2017
+1162,sm-caen,null,FR1,27,25.7,12,44.4,4,Stade Michel-d'Ornano,20500,2018
+12438,volga-nizhniy-novgorod,null,RU1,0,,0,,0,Zentralstadion Lokomotiv,17856,2013
+1506,kardemir-karabukspor,null,TR1,0,,0,,0,Dr. Necmettin Şeyhoğlu,12400,2017
+157,kaa-gent,KAA Gent,BE1,25,26.1,12,48,5,Ghelamco Arena,19999,2022
+16239,desna-chernigiv,null,UKR1,0,,0,,0,Stadion im. Yuriya Gagarina,12060,2021
+200,fc-utrecht,FC Utrecht,NL1,30,25.6,13,43.3,4,"Stadion ""Galgenwaard""",23750,2022
+2293,konyaspor,Konyaspor,TR1,29,26.8,15,51.7,7,Medaş Konya Büyükşehir Stadyumu,42000,2022
+2457,belenenses-sad,null,PO1,25,24.2,13,52,4,Estádio das Seixas,12500,2021
+2503,boavista-porto-fc,Boavista FC,PO1,28,25.6,16,57.1,8,Estádio do Bessa Sec. XXI,28263,2022
+2578,st-johnstone-fc,St. Johnstone FC,SC1,27,27.4,11,40.7,3,McDiarmid Park,10696,2022
+2687,fc-cadiz,Cádiz CF,ES1,29,29,9,31,4,Nuevo Mirandilla,21094,2022
+2727,oud-heverlee-leuven,Oud-Heverlee Leuven,BE1,22,25.3,11,50,4,King Power at Den Dreef Stadion,10020,2022
+2778,fc-nordsjaelland,FC Nordsjaelland,DK1,29,21.5,12,41.4,2,Right to Dream Park,10300,2022
+3508,sv-zulte-waregem,SV Zulte Waregem,BE1,30,25.3,17,56.7,4,Elindus Arena,12250,2022
+3558,gfc-ajaccio,null,FR1,6,28.7,1,16.7,1,Stade Ange-Casanova,4050,2015
+3690,ska-khabarovsk,null,RU1,27,25.5,4,14.8,0,Lenin Stadion,15200,2017
+3714,enisey-krasnoyarsk,null,RU1,26,25.5,2,7.7,1,Zentralstadion Krasnoyarsk,15000,2018
+39722,buyuksehir-belediye-erzurumspor,null,TR1,28,26.1,7,25,1,Erzurum Kazım Karabekir,23700,2020
+46,inter-mailand,Inter Milan,IT1,27,28.4,16,59.3,17,Giuseppe Meazza,75923,2022
+49702,fk-nizhny-novgorod,FC Pari Nizhniy Novgorod,RU1,26,25.7,5,19.2,1,Nizhny Novgorod Stadium,44242,2022
+6,adanaspor,null,TR1,10,23.9,4,40,0,Yeni Adana Stadyumu,33000,2016
+631,fc-chelsea,Chelsea FC,GB1,32,25.4,21,65.6,23,Stamford Bridge,40853,2022
+683,olympiakos-piraus,Olympiacos Piraeus,GR1,29,27.4,19,65.5,11,Stadio Georgios Karaiskakis,32115,2022
+825,eskisehirspor,null,TR1,41,23.9,1,2.4,0,Eskişehir Yeni Stadyum,34930,2015
+86,sv-werder-bremen,SV Werder Bremen,L1,26,25.3,9,34.6,6,Wohninvest-Weserstadion,42100,2022
+865,fc-midtjylland,FC Midtjylland,DK1,27,23.7,15,55.6,6,MCH Arena,11535,2022
+10690,zorya-lugansk,Zorya Lugansk,UKR1,30,24.4,1,3.3,1,Valeriy Lobanovsky Stadion,16873,2022
+1082,losc-lille,LOSC Lille,FR1,23,26,15,65.2,8,Decathlon Arena-Stade Pierre-Mauroy,50186,2022
+126,caykur-rizespor,null,TR1,32,26.8,9,28.1,1,Çaykur Didi,15332,2021
+128,ao-xanthi,null,GR1,0,,0,,0,Xanthi Arena,7361,2019
+1387,acn-siena-1904,null,IT1,29,25,1,3.4,0,Artemio Franchi,15373,2012
+16704,fk-krasnodar,FK Krasnodar,RU1,23,24.7,12,52.2,5,Stadion Krasnodar,35179,2022
+169,panionios-athen,null,GR1,34,23.5,4,11.8,0,Stadio Neas Smyrnis,11700,2019
+180,fc-southampton,Southampton FC,GB1,30,25.5,21,70,15,St Mary's Stadium,32384,2022
+22110,fc-helsingor,null,DK1,23,24.6,4,17.4,1,Helsingør Ny Stadion,4000,2017
+317,fc-twente-enschede,Twente Enschede FC,NL1,24,25.3,10,41.7,4,De Grolsch Veste,30205,2022
+338,dynamo-kiew,Dynamo Kyiv,UKR1,30,24.2,6,20,9,Valeriy Lobanovsky Stadion,16873,2022
+3840,adana-demirspor,Adana Demirspor,TR1,28,27.2,15,53.6,3,Yeni Adana Stadyumu,33000,2022
+443,vejle-boldklub,null,DK1,27,24,17,63,3,Vejle Stadion,10418,2021
+4482,volyn-lutsk,null,UKR1,0,,0,,0,Stadion Avangard,12080,2016
+4603,ae-larisa,null,GR1,28,24.2,6,21.4,0,Stadio Alkazar,13108,2020
+589,antalyaspor,Antalyaspor,TR1,31,26.4,17,54.8,5,Corendon Airlines Park Antalya Stadı,32537,2022
+641,fc-middlesbrough,null,GB1,25,26.1,8,32,6,Riverside Stadium,33746,2016
+6890,istanbul-basaksehir-fk,Basaksehir FK,TR1,29,26.5,13,44.8,7,Başakşehir Fatih Terim,17156,2022
+6912,fc-vizela,FC Vizela,PO1,26,24.9,19,73.1,4,Estádio do Vizela,6565,2022
+703,nottingham-forest,Nottingham Forest,GB1,35,28.1,23,65.7,19,The City Ground,30445,2022
+7775,hatayspor,Hatayspor,TR1,12,29.5,7,58.3,2,Yeni Hatay Stadyumu,25000,2022
+868,mke-ankaragucu,MKE Ankaragücü,TR1,31,26,16,51.6,4,Eryaman Stadyumu,20560,2022
+9007,arsenal-kiew,null,UKR1,0,,0,,0,NSK Olimpisky,70050,2018
+1041,olympique-lyon,Olympique Lyon,FR1,23,25.2,10,43.5,2,Groupama Stadium,59186,2022
+1269,pec-zwolle,null,NL1,34,24.1,10,29.4,1,MAC³PARK stadion,14000,2021
+1304,heracles-almelo,null,NL1,29,24.2,18,62.1,0,Erve Asito,12080,2021
+131,fc-barcelona,FC Barcelona,ES1,22,25.5,9,40.9,17,Spotify Camp Nou,99354,2022
+2451,inverness-caledonian-thistle-fc,null,SC1,26,24.4,9,34.6,0,Tulloch Caledonian Stadium,7750,2016
+3216,mersin-idmanyurdu,null,TR1,0,,0,,0,Mersin Stadyumu,25000,2015
+33,fc-schalke-04,FC Schalke 04,L1,32,27.3,18,56.3,6,Veltins-Arena,62271,2022
+336,sporting-lissabon,Sporting CP,PO1,33,24.4,16,48.5,7,Estádio José Alvalade XXI,50080,2022
+4083,fc-crotone,null,IT1,25,27,6,24,1,Ezio Scida,16640,2020
+5817,sonderjyske,null,DK1,30,23.9,9,30,1,Sydbank Park,10000,2021
+762,newcastle-united,Newcastle United,GB1,29,27.4,17,58.6,11,St James' Park,52338,2022
+873,crystal-palace,Crystal Palace,GB1,25,27,15,60,5,Selhurst Park,26047,2022
+989,afc-bournemouth,AFC Bournemouth,GB1,27,26.5,16,59.3,13,Vitality Stadium,11329,2022
+1005,us-lecce,US Lecce,IT1,31,24.5,19,61.3,7,Ettore Giardiniero,31559,2022
+1025,fc-bologna,Bologna FC 1909,IT1,31,25.5,21,67.7,10,Stadio Renato Dall’Ara,36462,2022
+1083,fk-rostov,FK Rostov,RU1,24,24.7,3,12.5,8,Rostov Arena,45415,2022
+11127,ural-ekaterinburg,Ural Yekaterinburg,RU1,28,27.2,10,35.7,2,Yekaterinburg Arena,23000,2022
+1123,norwich-city,null,GB1,25,26,17,68,12,Carrow Road,27244,2021
+1184,krc-genk,KRC Genk,BE1,28,22.8,18,64.3,10,Cegeka Arena,24956,2022
+1245,kas-eupen,KAS Eupen,BE1,31,23.4,21,67.7,8,Kehrweg-Stadion,8331,2022
+130,parma-calcio-1913,null,IT1,30,24.8,23,76.7,6,Ennio Tardini,22352,2020
+142,real-saragossa,null,ES1,27,26,9,33.3,3,La Romareda,33608,2012
+1465,gd-estoril-praia,GD Estoril Praia,PO1,29,24.4,14,48.3,2,Estádio António Coimbra da Mota,8000,2022
+1467,goztepe,null,TR1,31,23.3,10,32.3,0,Gürsel Aksel Stadyumu,19713,2021
+172,rsc-charleroi,RSC Charleroi,BE1,25,23.9,17,68,7,Stade du Pays de Charleroi,15000,2022
+18,borussia-monchengladbach,Borussia Mönchengladbach,L1,27,25.9,15,55.6,10,Stadion im Borussia-Park,54042,2022
+18105,pfk-lviv,null,UKR1,27,25.3,6,22.2,0,Stadion SKIF,3742,2022
+235,rkc-waalwijk,RKC Waalwijk,NL1,28,26,16,57.1,5,Mandemakers Stadion,7508,2022
+23826,rasenballsport-leipzig,RB Leipzig,L1,27,25.6,17,63,18,Red Bull Arena,47069,2022
+27,fc-bayern-munchen,Bayern Munich,L1,27,26.4,16,59.3,21,Allianz Arena,75024,2022
+2703,spartak-vladikavkaz,null,RU1,0,,0,,0,Republican Stadium Spartak,32464,2012
+273,fc-stade-rennes,Stade Rennais FC,FR1,28,24.5,14,50,11,Roazhon Park,29778,2022
+289,afc-sunderland,null,GB1,26,23.5,12,46.2,6,Stadium of Light,48707,2016
+3060,atromitos-athen,Atromitos Athen,GR1,26,26.2,13,50,2,Stadio Peristeriou,9050,2022
+3524,clermont-foot-63,Clermont Foot 63,FR1,25,25.8,15,60,7,Stade Gabriel-Montpied,13000,2022
+39,1-fsv-mainz-05,1.FSV Mainz 05,L1,27,25.1,13,48.1,9,Mewa Arena,33305,2022
+416,fc-turin,Torino FC,IT1,28,24.6,23,82.1,17,Stadio Olimpico Grande Torino,28177,2022
+458,palermo-fc,null,IT1,28,25.6,7,25,4,"Comunale Renzo Barbera ""La Favorita""",36365,2016
+4750,sc-olhanense,null,PO1,21,23,10,47.6,0,Estádio José Arcanjo,10080,2013
+5220,gs-ergotelis,null,GR1,3,23.3,0,,0,Pankritio Stadio,25780,2014
+5572,niki-volou,null,GR1,26,27.2,7,26.9,2,Panthessaliko Stadio,22700,2014
+678,aarhus-gf,Aarhus GF,DK1,23,25.1,9,39.1,1,Ceres Park,19433,2022
+80,vfl-bochum,VfL Bochum,L1,28,28.1,17,60.7,7,Vonovia Ruhrstadion,26000,2022
+969,montpellier-hsc,Montpellier HSC,FR1,28,25.7,12,42.9,5,Stade de la Mosson,32939,2022
+1050,fc-villarreal,Villarreal CF,ES1,23,28.3,9,39.1,8,La Cerámica,23500,2022
+1096,royal-antwerpen-fc,Royal Antwerp FC,BE1,26,25,14,53.8,4,De Bosuil,16144,2022
+1110,huddersfield-town,null,GB1,33,26.7,12,36.4,3,John Smith's Stadium,24500,2018
+1160,nimes-olympique,null,FR1,26,25.3,12,46.2,3,Stade des Antonins,8033,2020
+1186,torpedo-moskau,Torpedo Moscow,RU1,29,27.2,10,34.5,4,Luzhniki Stadium,81000,2022
+12,as-rom,AS Roma,IT1,28,26.1,19,67.9,17,Olimpico di Roma,73261,2022
+124,glasgow-rangers,Rangers FC,SC1,32,27,22,68.8,10,Ibrox Stadium,50987,2022
+14171,thonon-evian-grand-geneve-fc,null,FR1,27,27.4,6,22.2,1,Stade Camille Fournier,2500,2014
+1421,stade-reims,Stade Reims,FR1,25,24.6,16,64,7,Stade Auguste-Delaune,21684,2022
+1426,vvv-venlo,null,NL1,28,22.9,7,25,0,Covebo Stadion - De Koel,8000,2020
+1429,cesena-fc,null,IT1,28,25.9,4,14.3,0,Orogel Stadium - Dino Manuzzi,23860,2014
+1436,sc-beira-mar,null,PO1,27,26.8,6,22.2,1,Estádio Mário Duarte,12000,2012
+1455,fc-dordrecht,null,NL1,29,23.3,12,41.4,1,Matchoholic Stadion,4235,2014
+16245,fk-sevastopol,null,UKR1,0,,0,,0,SK Sevastopol,5826,2013
+19657,vendsyssel-ff,null,DK1,24,25.1,7,29.2,0,Nord Energi Arena,10000,2018
+2079,veria-nps,null,GR1,29,24.3,4,13.8,0,Dimotiko Stadio Verias,6350,2016
+23,eintracht-braunschweig,null,L1,29,26,9,31,0,EINTRACHT-Stadion,23325,2013
+234,feyenoord-rotterdam,Feyenoord Rotterdam,NL1,27,23.5,16,59.3,13,"Stadion Feyenoord ""De Kuip""",47500,2022
+24,eintracht-frankfurt,Eintracht Frankfurt,L1,30,25.2,18,60,11,Deutsche Bank Park,51500,2022
+2441,aek-athen,AEK Athens,GR1,31,27.3,20,64.5,11,OPAP Arena,31100,2022
+2698,rubin-kazan,null,RU1,33,26.7,8,24.2,2,Ak Bars Arena,45379,2021
+2700,anzhi-makhachkala,null,RU1,0,,0,,0,RDYuSSh MinObrNauki RD Politekh Makhachkala,1600,2018
+2722,spal,null,IT1,32,26,8,25,2,Paolo Mazza,16134,2019
+28643,waasland-beveren,null,BE1,27,26.8,16,59.3,3,Freethielstadion,13290,2020
+3336,desportivo-aves,null,PO1,0,,0,,0,Estádio CD das Aves,5441,2019
+398,lazio-rom,SS Lazio,IT1,26,27.2,16,61.5,9,Olimpico di Roma,73261,2022
+441,apollon-smyrnis,null,GR1,27,27.3,15,55.6,0,Stadio Neas Smyrnis,11700,2021
+543,wolverhampton-wanderers,Wolverhampton Wanderers,GB1,28,26.2,24,85.7,14,Molineux Stadium,32050,2022
+55686,metalist-1925-kharkiv,Metalist 1925 Kharkiv,UKR1,27,25.6,2,7.4,0,NSK Olimpisky,70050,2022
+58,rsc-anderlecht,RSC Anderlecht,BE1,26,24.6,12,46.2,10,Lotto Park,21500,2022
+60551,sk-dnipro-1,SK Dnipro-1,UKR1,29,25.9,9,31,6,Avangard,10640,2022
+7179,cd-tondela,null,PO1,26,22.8,12,46.2,2,Estádio João Cardoso,5000,2021
+7378,portimonense-sc,Portimonense SC,PO1,32,25.1,23,71.9,3,Portimonense Estádio,6000,2022
+10484,kasimpasa,Kasimpasa,TR1,33,27.5,17,51.5,4,Recep Tayyip Erdoğan Stadyumu,13856,2022
+1148,fc-brentford,Brentford FC,GB1,25,25.6,19,76,15,Brentford Community Stadium,17250,2022
+1158,fc-lorient,FC Lorient,FR1,26,24.6,12,46.2,7,Stade du Moustoir,19010,2022
+1159,as-nancy-lorraine,null,FR1,27,25.6,5,18.5,0,Stade Marcel-Picot,20087,2016
+1237,brighton-amp-hove-albion,Brighton & Hove Albion,GB1,25,24.8,18,72,13,AMEX Stadium,31800,2022
+132,nac-breda,null,NL1,32,23.7,10,31.3,2,Rat Verlegh Stadion,19000,2018
+148,tottenham-hotspur,Tottenham Hotspur,GB1,25,26.7,17,68,16,Tottenham Hotspur Stadium,62062,2022
+16247,pfk-stal-kamyanske,null,UKR1,0,,0,,0,Obolon,5100,2017
+23611,olimpik-donetsk,null,UKR1,0,,0,,0,NTK im. B. M. Bannikova,1678,2020
+252,genua-cfc,null,IT1,31,26.3,20,64.5,5,Luigi Ferraris,34901,2021
+2783,metalurg-donetsk,null,UKR1,0,,0,,0,Metalurg,5090,2014
+28956,ael-kalloni,null,GR1,0,,0,,0,Stadio Mytilinis,4000,2015
+3,1-fc-koln,1.FC Köln,L1,34,24.6,11,32.4,7,RheinEnergieSTADION,50000,2022
+31,fc-liverpool,Liverpool FC,GB1,30,26.6,21,70,17,Anfield,54074,2022
+36,fenerbahce-istanbul,Fenerbahce,TR1,28,26.9,15,53.6,15,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,47834,2022
+379,west-ham-united,West Ham United,GB1,22,28.2,16,72.7,13,London Stadium,62500,2022
+385,fortuna-sittard,Fortuna Sittard,NL1,26,25.8,18,69.2,2,Fortuna Sittard Stadion,12500,2022
+3911,stade-brest-29,Stade Brestois 29,FR1,26,25.5,9,34.6,4,Stade Francis-Le Blé,15097,2022
+405,aston-villa,Aston Villa,GB1,23,27.2,16,69.6,13,Villa Park,42682,2022
+417,ogc-nizza,OGC Nice,FR1,27,24.3,18,66.7,13,Allianz Riviera,36178,2022
+4171,benevento-calcio,null,IT1,31,26.6,16,51.6,2,Ciro Vigorito,16867,2020
+418,real-madrid,Real Madrid,ES1,25,27.4,17,68,16,Santiago Bernabéu,81044,2022
+467,nec-nijmegen,NEC Nijmegen,NL1,27,24.2,9,33.3,1,Goffertstadion,12500,2022
+47,iraklis-thessaloniki,null,GR1,27,24.3,9,33.3,0,Kaftanzoglio Stadio,27770,2016
+6195,ssc-neapel,SSC Napoli,IT1,27,26.1,19,70.4,20,Stadio Diego Armando Maradona,54726,2022
+720,fc-porto,FC Porto,PO1,28,26.6,15,53.6,9,Estádio do Dragão,50399,2022
+833,denizlispor,null,TR1,27,25.7,3,11.1,1,Denizli Atatürk Stadı,18745,2020
+862,chievo-verona,null,IT1,0,,0,,0,Marcantonio Bentegodi,31045,2018
+931,fc-fulham,Fulham FC,GB1,24,28.1,22,91.7,14,Craven Cottage,22384,2022
+968,kvc-westerlo,KVC Westerlo,BE1,27,26.3,16,59.3,4,Het Kuipje,8035,2022
+982,cd-nacional,null,PO1,27,25,12,44.4,2,Estádio da Madeira,5586,2020
+1032,fc-reading,null,GB1,27,27.1,17,63,7,Select Car Leasing Stadium,24161,2012
+1085,vitoria-setubal-fc,null,PO1,29,26,10,34.5,0,Estádio do Bonfim,18642,2019
+1090,az-alkmaar,AZ Alkmaar,NL1,28,23.1,11,39.3,8,AFAS Stadion,19478,2022
+1124,fakel-voronezh,Fakel Voronezh,RU1,25,27.3,2,8,0,Central Stadium of Profsoyuzes,21793,2022
+141,galatasaray-istanbul,Galatasaray,TR1,29,25.9,16,55.2,12,Ali Sami Yen Spor Kompleksi NEF Stadyumu,52223,2022
+1423,fc-valenciennes,null,FR1,28,25,8,28.6,4,Stade du Hainaut,25000,2013
+162,as-monaco,AS Monaco,FR1,27,24.3,27,100,9,Stade Louis-II,18523,2022
+20,bursaspor,null,TR1,26,21.4,0,,0,Bursa Büyükşehir Belediye Stadyumu,43361,2018
+2227,sk-tavriya-simferopol,null,UKR1,0,,0,,0,RS Lokomotiv,19978,2013
+2282,fc-brugge,Club Brugge KV,BE1,30,23.9,17,56.7,14,Jan-Breydel-Stadion,29062,2022
+2381,sivasspor,Sivasspor,TR1,31,28.5,17,54.8,5,Yeni 4 Eylül Stadı,27532,2022
+2414,ac-horsens,AC Horsens,DK1,23,25.7,9,39.1,4,Nordstern Arena Horsens,10400,2022
+2424,gil-vicente-fc,Gil Vicente FC,PO1,25,25.6,17,68,4,Estádio Cidade de Barcelos,12046,2022
+2439,kuban-krasnodar,null,RU1,0,,0,,0,Kuban Stadium,31654,2015
+2715,rfc-seraing,RFC Seraing,BE1,28,23.7,19,67.9,2,Stade du Paray,6744,2022
+28095,fk-ufa,null,RU1,26,24.4,3,11.5,0,Neftyanik,15132,2021
+2861,kv-oostende,KV Oostende,BE1,32,23.9,19,59.4,4,Diaz Arena,8432,2022
+3008,hull-city,null,GB1,28,25,17,60.7,6,MKM Stadium,25586,2016
+3329,fc-famalicao,FC Famalicão,PO1,30,24.3,19,63.3,4,Estádio Municipal de Famalicão,5300,2022
+347,fc-metz,null,FR1,21,24.9,14,66.7,7,Stade Saint-Symphorien,26700,2021
+350,sheffield-united,null,GB1,27,26.7,14,51.9,9,Bramall Lane,32702,2020
+371,celtic-glasgow,Celtic FC,SC1,26,26.1,19,73.1,16,Celtic Park,60832,2022
+40426,fk-tosno,null,RU1,0,,0,,0,Petrovsky,20985,2017
+41231,fk-sochi,FC Sochi,RU1,25,27.9,7,28,3,Fisht Olympic Stadium,45994,2022
+566,beerschot-ac,null,BE1,0,,0,,0,Olympisch Stadion,12771,2012
+653,ofi-kreta,OFI Crete FC,GR1,31,26.5,16,51.6,3,Gipedo Theodoros Vardinogiannis,9088,2022
+8024,fc-arouca,FC Arouca,PO1,27,25.9,21,77.8,2,Estádio Municipal de Arouca,5600,2022
+993,fc-cordoba,null,ES1,24,27.8,4,16.7,0,Nuevo Arcángel,21822,2014
+1049,fc-valencia,Valencia CF,ES1,26,25,14,53.8,9,Mestalla,48600,2022
+1177,silkeborg-if,Silkeborg IF,DK1,25,24,2,8,1,JYSK Park,10000,2022
+1210,as-livorno,null,IT1,28,23.8,3,10.7,0,Armando Picchi,19238,2013
+1283,fc-emmen,FC Emmen,NL1,30,25.7,14,46.7,3,De Oude Meerdijk,8309,2022
+19771,akhisarspor,null,TR1,14,20.9,0,,0,Spor Toto Akhisar Stadyumu,12139,2018
+204,lierse-sk,null,BE1,0,,0,,0,Herman Vanderpoortenstadion,14538,2014
+2375,altay-sk,null,TR1,31,25.2,3,9.7,0,Alsancak Mustafa Denizli Stadı,15000,2021
+2425,rio-ave-fc,Rio Ave FC,PO1,24,27.3,12,50,0,Estádio dos Arcos,9065,2022
+2759,ross-county-fc,Ross County FC,SC1,26,25.9,17,65.4,2,Global Energy Stadium,6541,2022
+3719,fk-khimki,FK Khimki,RU1,27,25.3,12,44.4,2,Arena Khimki,18636,2022
+48332,kolos-kovalivka,Kolos Kovalivka,UKR1,24,27,1,4.2,1,Kolos,5050,2022
+49364,ingulets-petrove,Ingulets Petrove,UKR1,28,26.3,2,7.1,1,Stadion Ingulets,1720,2022
+511,dundee-fc,null,SC1,27,25.1,12,44.4,0,Kilmac Stadium at Dens Park,11850,2021
+520,cercle-brugge,Cercle Brugge,BE1,23,23.9,14,60.9,4,Jan-Breydel-Stadion,29062,2022
+610,ajax-amsterdam,Ajax Amsterdam,NL1,26,24.2,11,42.3,15,Johan Cruijff ArenA,55600,2022
+68608,cf-os-belenenses,null,PO1,30,25.7,5,16.7,0,Estádio do Restelo,19980,2017
+6993,fk-mariupol,null,UKR1,0,,0,,0,Stadion im. Volodymyra Boyko,12680,2021
+6996,goverla-uzhgorod,null,UKR1,0,,0,,0,Avangard,10640,2015
+826,rc-lens,RC Lens,FR1,30,25.7,18,60,13,Stade Bollaert-Delelis,38223,2022
+985,manchester-united,Manchester United,GB1,32,26,20,62.5,18,Old Trafford,74879,2022
+10,arminia-bielefeld,null,L1,27,25.3,15,55.6,4,SchücoArena,26515,2021
+1091,paok-thessaloniki,PAOK Thessaloniki,GR1,32,26.6,22,68.8,7,Toumba Stadium,28703,2022
+11126,mordovia-saransk,null,RU1,0,,0,,0,Mordovia Arena,44442,2015
+11688,giresunspor,Giresunspor,TR1,26,25.4,10,38.5,4,Çotanak Spor Kompleksi,21500,2022
+13,atletico-madrid,Atlético de Madrid,ES1,22,28.5,15,68.2,17,Civitas Metropolitano,68456,2022
+1435,go-ahead-eagles-deventer,Go Ahead Eagles,NL1,27,23.4,11,40.7,0,De Adelaarshorst,9909,2022
+14589,fk-orenburg,FK Orenburg,RU1,25,25.8,13,52,4,Gazovik,10046,2022
+16,borussia-dortmund,Borussia Dortmund,L1,33,24.6,16,48.5,16,SIGNAL IDUNA PARK,81365,2022
+206,brondby-if,Bröndby IF,DK1,26,24.8,11,42.3,6,Brøndby Stadion,28000,2022
+232,spartak-moskau,Spartak Moscow,RU1,26,25.1,8,30.8,11,Otkrytie Bank Arena,44571,2022
+276,hellas-verona,Hellas Verona,IT1,29,26.3,18,62.1,6,Marcantonio Bentegodi,39211,2022
+281,manchester-city,Manchester City,GB1,24,26.8,16,66.7,17,Etihad Stadium,55017,2022
+29228,royal-excel-mouscron,null,BE1,0,,0,,0,Le Canonnier,10830,2020
+2944,ankaraspor,null,TR1,30,23.7,1,3.3,0,Osmanlı Stadı,19626,2017
+2969,dijon-fco,null,FR1,29,25.8,14,48.3,4,Stade Gaston-Gérard,16098,2020
+2999,hamilton-academical-fc,null,SC1,28,22.7,9,32.1,0,Fountain of Youth Stadium,6018,2020
+3302,ud-almeria,UD Almería,ES1,26,26.2,13,50,3,Power Horse Stadium,15274,2022
+368,fc-sevilla,Sevilla FC,ES1,24,28.8,18,75,9,Ramón Sánchez-Pizjuán,43883,2022
+3999,pas-lamia-1964,PAS Lamia 1964,GR1,33,28.7,16,48.5,3,"Stadio Lamia ""Athanasios Diakos""",5500,2022
+4128,amkar-perm,null,RU1,26,25.8,0,,0,Zvezda,17000,2017
+430,ac-florenz,ACF Fiorentina,IT1,26,26.5,14,53.8,9,Artemio Franchi,43147,2022
+506,juventus-turin,Juventus FC,IT1,28,27,17,60.7,17,Allianz Stadium,41507,2022
+5219,aok-kerkyra,null,GR1,7,29,1,14.3,0,Ethniko Stadio Kerkyras,3000,2017
+595,sc-bastia,null,FR1,25,27.6,8,32,6,Stade Armand-Cesari,16480,2016
+618,as-saint-etienne,null,FR1,27,25.5,7,25.9,3,Stade Geoffroy-Guichard,42000,2021
+65,spvgg-greuther-furth,null,L1,28,23.9,11,39.3,2,Sportpark Ronhof | Thomas Sommer,16626,2021
+903,hibernian-fc,Hibernian FC,SC1,24,26.5,15,62.5,3,Easter Road Stadium,20250,2022
+1071,wigan-athletic,null,GB1,27,27.9,15,55.6,8,DW Stadium,25133,2012
+1147,ac-ajaccio,AC Ajaccio,FR1,30,28.4,15,50,9,Stade François-Coty,10446,2022
+1301,cs-maritimo,CS Marítimo,PO1,29,26.5,18,62.1,4,Estádio do Marítimo,10932,2022
+133,sc-cambuur-leeuwarden,SC Cambuur Leeuwarden,NL1,30,25.7,12,40,5,Cambuurstadion,10250,2022
+1627,catania-calcio,null,IT1,28,25.9,3,10.7,0,Cibali - Angelo Massimino,20204,2013
+173,odense-boldklub,null,DK1,26,23.7,13,50,4,Nature Energy Park,15790,2022
+190,fc-kopenhagen,FC Copenhagen,DK1,28,25.3,17,60.7,11,Parken,38065,2022
+21957,ao-platanias,null,GR1,0,,0,,0,Dimotiko Gipedo Perivolia,3700,2017
+237,rcd-mallorca,RCD Mallorca,ES1,24,27.9,13,54.2,9,Mallorca Son Moix,20500,2022
+2410,zska-moskau,CSKA Moscow,RU1,26,25.1,8,30.8,7,VEB Arena,30114,2022
+244,olympique-marseille,Olympique Marseille,FR1,22,26.6,16,72.7,13,Orange Vélodrome,67394,2022
+2995,fc-pacos-de-ferreira,FC Paços de Ferreira,PO1,28,25.6,12,42.9,2,Estádio Capital do Móvel,9200,2022
+3268,casa-pia-ac,Casa Pia AC,PO1,28,26.7,19,67.9,4,Estádio Nacional do Jamor,41000,2022
+3368,ud-levante,null,ES1,23,27.5,6,26.1,0,Ciutat de València,26354,2021
+339,dnipro-dnipropetrovsk,null,UKR1,0,,0,,0,Meteor,24381,2016
+3592,kryvbas-kryvyi-rig,Kryvbas Kryvyi Rig,UKR1,27,26,4,14.8,1,Girnyk,2500,2022
+366,real-valladolid,Real Valladolid CF,ES1,24,28,10,41.7,6,Nuevo José Zorrilla,27618,2022
+3691,tom-tomsk,null,RU1,0,,0,,0,Trud,10028,2016
+533,tsg-1899-hoffenheim,TSG 1899 Hoffenheim,L1,31,25.8,17,54.8,9,PreZero Arena,30150,2022
+5818,hobro-ik,null,DK1,22,24.8,4,18.2,2,DS Arena,7500,2019
+605,aris-thessaloniki,Aris Thessaloniki,GR1,30,27,22,73.3,7,"Gipedo ""Kleanthis Vikelidis""",22800,2022
+60949,volos-nps,Volos NPS,GR1,26,26.4,16,61.5,2,Panthessaliko Stadio,22700,2022
+89,1-fc-union-berlin,1.FC Union Berlin,L1,27,27.6,13,48.1,9,Stadion An der Alten Försterei,22012,2022
+8970,frosinone-calcio,null,IT1,29,25.4,11,37.9,3,Benito Stirpe,16227,2018
+995,fc-nantes,FC Nantes,FR1,27,26.2,12,44.4,8,Stade de la Beaujoire,37463,2022
+1003,leicester-city,Leicester City,GB1,27,27,19,70.4,17,King Power Stadium,32273,2022
+1010,fc-watford,null,GB1,30,26.3,24,80,12,Vicarage Road,21577,2021
+11,fc-arsenal,Arsenal FC,GB1,23,25.2,16,69.6,17,Emirates Stadium,60704,2022
+1108,deportivo-alaves,null,ES1,24,26.1,10,41.7,3,Mendizorroza,19840,2021
+1132,fc-burnley,null,GB1,26,25.1,18,69.2,12,Turf Moor,21994,2021
+1411,raec-mons,null,BE1,0,,0,,0,Charles Tondreau Stadion,12662,2013
+1416,amiens-sc,null,FR1,24,24.1,10,41.7,7,Stade Crédit Agricole la Licorne,12999,2019
+1420,sco-angers,Angers SCO,FR1,31,25,15,48.4,6,Stade Raymond Kopa,19350,2022
+150,real-betis-sevilla,Real Betis Balompié,ES1,26,29,13,50,10,Benito Villamarín,59378,2022
+167,fc-augsburg,FC Augsburg,L1,32,25.3,19,59.4,6,WWK ARENA,30660,2022
+265,panathinaikos-athen,Panathinaikos Athens,GR1,30,27,21,70,10,Apostolos Nikolaidis,15000,2022
+2672,apo-levadiakos,APO Levadiakos,GR1,31,27.8,19,61.3,0,Stadio Livadias,5915,2022
+2696,krylya-sovetov-samara,Krylya Sovetov Samara,RU1,25,25,6,24,4,Solidarnost Samara Arena,42347,2022
+2740,vorskla-poltava,null,UKR1,30,25,9,30,2,Vorskla im. Oleksiy Butovskyi,23842,2022
+2832,gaziantep-fk,Gaziantep FK,TR1,7,24.1,4,57.1,0,Kalyon Stadyumu,33502,2022
+2921,delfino-pescara-1936,null,IT1,28,24.6,6,21.4,1,Adriatico,20476,2016
+2990,academica-coimbra,null,PO1,26,25.2,6,23.1,0,Estádio Cidade de Coimbra,29744,2015
+306,sc-heerenveen,SC Heerenveen,NL1,26,24.6,12,46.2,2,Abe Lenstra Stadion,27224,2022
+3426,esbjerg-fb,null,DK1,27,22.7,10,37,2,Blue Water Arena,16942,2019
+369,lyngby-bk,Lyngby BK,DK1,30,24.1,7,23.3,2,Lyngby Stadion,10000,2022
+370,aberdeen-fc,Aberdeen FC,SC1,24,25.2,19,79.2,5,Pittodrie Stadium,22199,2022
+3725,akhmat-grozny,Akhmat Grozny,RU1,30,26,10,33.3,2,Akhmat-Arena,30200,2022
+42,hannover-96,null,L1,28,25,6,21.4,1,Heinz-von-Heiden-Arena,49000,2018
+44,hertha-bsc,Hertha BSC,L1,29,26.1,16,55.2,8,Olympiastadion Berlin,74667,2022
+499,vitesse-arnheim,Vitesse Arnhem,NL1,28,23.7,13,46.4,4,GelreDome,21248,2022
+5,ac-mailand,AC Milan,IT1,30,27,24,80,19,Giuseppe Meazza,75923,2022
+512,stoke-city,null,GB1,24,26.7,9,37.5,6,bet365 Stadium,30089,2017
+5724,randers-fc,Randers FC,DK1,23,26,12,52.2,2,Cepheus Park Randers,10300,2022
+621,athletic-bilbao,Athletic Bilbao,ES1,25,27.8,1,4,4,San Mamés,53289,2022
+6676,asteras-tripolis,Asteras Tripolis,GR1,32,27.3,24,75,0,Gipedo Theodoros Kolokotronis,7423,2022
+681,real-sociedad-san-sebastian,Real Sociedad,ES1,26,25.7,5,19.2,6,Reale Arena,39313,2022
+6992,chornomorets-odessa,Chornomorets Odessa,UKR1,25,27.6,4,16,0,Stadion Chornomorets (2011),34164,2022
+714,espanyol-barcelona,RCD Espanyol Barcelona,ES1,27,26,7,25.9,5,RCDE Stadium,40500,2022
+724,fc-volendam,FC Volendam,NL1,32,22.6,13,40.6,0,Kras Stadion,7384,2022
+800,atalanta-bergamo,Atalanta BC,IT1,25,26.6,17,68,13,Gewiss Stadium,21747,2022
+820,genclerbirligi-ankara,null,TR1,34,26,10,29.4,1,Eryaman Stadyumu,20560,2020
+932,lokomotiv-moskau,Lokomotiv Moscow,RU1,29,24.1,7,24.1,9,RZD Arena,27084,2022
+984,west-bromwich-albion,null,GB1,25,27.7,8,32,4,The Hawthorns,26850,2020
+105,sv-darmstadt-98,null,L1,27,25.6,11,40.7,1,Merck-Stadion am Böllenfalltor,17500,2016
+20100,fc-vestsjaelland,null,DK1,0,,0,,0,Harboe Arena,10000,2014
+2288,swansea-city,null,GB1,22,24.8,17,77.3,4,Swansea.com Stadium,21088,2017
+2448,sporting-gijon,null,ES1,28,26.1,10,35.7,2,El Molinón - Enrique Castro Quini,29029,2016
+2477,karpaty-lviv,null,UKR1,0,,0,,0,Stadion Ukraina,28051,2019
+29,fc-everton,Everton FC,GB1,25,27.4,11,44,8,Goodison Park,39571,2022
+290,aj-auxerre,AJ Auxerre,FR1,33,25.7,21,63.6,10,Stade de l'Abbé-Deschamps,18541,2022
+3057,standard-luttich,Standard Liège,BE1,25,24.2,13,52,5,Maurice Dufrasne Stadion,27670,2022
+3349,cd-feirense,null,PO1,24,25,11,45.8,2,Estádio Marcolino de Castro,5401,2018
+3729,arsenal-tula,null,RU1,27,27.3,2,7.4,1,Arsenal,19241,2021
+4294,sc-farense,null,PO1,28,27.6,15,53.6,1,Estádio São Luís,15000,2020
+4795,fc-ingolstadt-04,null,L1,28,24.3,8,28.6,1,Audi Sportpark,15800,2016
+524,gaziantepspor,null,TR1,0,,0,,0,Gaziantep Stadyumu,33502,2016
+61825,fk-minaj,FK Minaj,UKR1,25,26,1,4,0,Stadion Minaj,2000,2022
+6894,kayseri-erciyesspor,null,TR1,0,,0,,0,Kayseri Atatürk Spor Kompleksi Yan Açık Saha,2000,2014
+1095,es-troyes-ac,ESTAC Troyes,FR1,27,25.4,13,48.1,4,Stade de l'Aube,21877,2022
+11282,alanyaspor,Alanyaspor,TR1,30,25.9,14,46.7,4,Kırbıyık Holding Stadyumu,10128,2022
+114,besiktas-istanbul,Besiktas JK,TR1,29,27.7,15,51.7,14,Vodafone Park,42590,2022
+1244,cd-leganes,null,ES1,23,28.5,8,34.8,3,Butarque,12454,2019
+1268,ado-den-haag,null,NL1,34,23.5,7,20.6,3,Bingoal Stadion,15000,2020
+20698,balikesirspor,null,TR1,22,22,1,4.5,0,Balıkesir Atatürk,15800,2014
+2420,vitoria-guimaraes-sc,Vitória Guimarães SC,PO1,29,24.1,12,41.4,4,Estádio D. Afonso Henriques,29865,2022
+294,benfica-lissabon,SL Benfica,PO1,24,25,14,58.3,10,Estádio da Luz,65000,2022
+331,ca-osasuna,CA Osasuna,ES1,22,27.8,4,18.2,3,El Sadar,23576,2022
+3327,fc-penafiel,null,PO1,28,27.9,4,14.3,0,Estádio Municipal 25 de Abril,5230,2014
+3522,spezia-calcio,Spezia Calcio,IT1,29,25.8,22,75.9,10,Alberto Picco,11676,2022
+354,kv-mechelen,KV Mechelen,BE1,30,24.3,10,33.3,3,AFAS Stadion,16672,2022
+399,leeds-united,Leeds United,GB1,24,25.6,19,79.2,8,Elland Road,37890,2022
+40,fc-girondins-bordeaux,null,FR1,26,22.7,13,50,6,Matmut Atlantique,42115,2021
+410,udinese-calcio,Udinese Calcio,IT1,27,25.4,22,81.5,9,Dacia Arena,25144,2022
+41201,pfk-tambov,null,RU1,0,,0,,0,Mordovia Arena,44149,2020
+583,fc-paris-saint-germain,Paris Saint-Germain,FR1,26,25.3,16,61.5,13,Parc des Princes,49691,2022
+601,kv-kortrijk,KV Kortrijk,BE1,28,25.1,20,71.4,5,Guldensporenstadion,9399,2022
+6414,metalist-kharkiv,null,UKR1,0,,0,,0,OSK Metalist,38685,2015
+642,de-graafschap-doetinchem,null,NL1,30,23.7,6,20,0,"Stadion ""De Vijverberg""",12600,2018
+6994,metalurg-zaporizhya-bis-2016-,null,UKR1,0,,0,,0,Slavutych Arena,11883,2015
+7185,panthrakikos-komotini,null,GR1,29,24.2,3,10.3,0,Stadio Komotinis OPAP,5601,2015
+798,sbv-excelsior-rotterdam,Excelsior Rotterdam,NL1,28,23.6,10,35.7,1,Van Donge & De Roo Stadion - Woudestein,4400,2022
+924,istanbulspor,Istanbulspor,TR1,34,24.8,17,50,5,Esenyurt Necmi Kadıoğlu Stadyumu,7500,2022
+1038,sampdoria-genua,UC Sampdoria,IT1,29,26.5,17,58.6,6,Luigi Ferraris,36348,2022
+1053,aalborg-bk,Aalborg BK,DK1,26,24.6,9,34.6,0,Aalborg Portland Park,13800,2022
+1075,sc-braga,SC Braga,PO1,25,25.9,14,56,3,Estádio Municipal de Braga,30286,2022
+12321,fc-girona,Girona FC,ES1,25,26.6,11,44,4,Montilivi,13286,2022
+1241,livingston-fc,Livingston FC,SC1,22,27.2,11,50,0,Tony Macaroni Arena,9512,2022
+1390,cagliari-calcio,null,IT1,28,25.9,12,42.9,4,Unipol Domus,16416,2021
+15,bayer-04-leverkusen,Bayer 04 Leverkusen,L1,27,24.9,19,70.4,13,BayArena,30210,2022
+1519,dundee-united-fc,Dundee United FC,SC1,23,26.1,11,47.8,5,Tannadice Park,14223,2022
+1531,fc-elche,Elche CF,ES1,26,27.7,10,38.5,2,Manuel Martínez Valero,31388,2022
+1533,sd-eibar,null,ES1,26,28.1,5,19.2,0,Ipurua,8164,2020
+16795,fc-granada,null,ES1,28,28,8,28.6,3,Nuevo Los Cármenes,19336,2021
+19,brescia-calcio,null,IT1,28,25.1,12,42.9,1,Mario Rigamonti,19550,2019
+202,fc-groningen,FC Groningen,NL1,29,22.8,14,48.3,5,Euroborg,22555,2022
+2323,orduspor,null,TR1,2,21,0,,0,19 Eylül Stadyum,11024,2012
+3325,gd-chaves,GD Chaves,PO1,27,26.3,17,63,3,Estádio Municipal Eng.º Manuel Branco Teixeira,9000,2022
+3609,rotor-volgograd,null,RU1,27,23.9,2,7.4,0,Volgograd Arena,45568,2020
+38,fortuna-dusseldorf,null,L1,30,25.7,12,40,2,MERKUR SPIEL-ARENA,54600,2019
+4,1-fc-nurnberg,null,L1,33,25.2,7,21.2,2,Max-Morlock-Stadion,50000,2018
+403,willem-ii-tilburg,null,NL1,27,25.9,7,25.9,0,Koning Willem II Stadion,14700,2021
+4102,carpi-fc-1909,null,IT1,25,23.6,6,24,1,Sandro Cabassi,5510,2015
+415,fc-toulouse,FC Toulouse,FR1,26,24.3,23,88.5,6,Stadium Municipal,33150,2022
+449,trabzonspor,Trabzonspor,TR1,30,25.6,13,43.3,12,Şenol Güneş Spor Kompleksi,40782,2022
+6418,panetolikos-gfs,Panetolikos GFS,GR1,31,25.7,13,41.9,5,Gipedo Panetolikou,7321,2022
+79,vfb-stuttgart,VfB Stuttgart,L1,29,23.7,16,55.2,8,Mercedes-Benz Arena,60449,2022
+83678,metal-kharkiv,Metalist Kharkiv,UKR1,26,25.3,4,15.4,0,Avangard,10640,2022
+964,zenit-st-petersburg,Zenit St. Petersburg,RU1,23,26.5,10,43.5,9,Gazprom Arena,63026,2022
+979,moreirense-fc,null,PO1,25,26.6,16,64,1,E. C. J. de Almeida Freitas,6153,2021
+1063,viborg-ff,Viborg FF,DK1,24,23.5,13,54.2,4,Viborg Stadion,9566,2022
+121,dinamo-moskau,Dynamo Moscow,RU1,23,25,9,39.1,10,VTB-Arena,25716,2022
+18303,fk-oleksandriya,null,UKR1,27,24.4,2,7.4,3,KSK Nika,7000,2022
+19789,yeni-malatyaspor,null,TR1,11,22.7,2,18.2,1,Yeni Malatya Stadyumu,25745,2021
+2292,elazigspor,null,TR1,32,25,0,,0,Elazığ Doğukent Stadı,2500,2013
+2760,partick-thistle-fc,null,SC1,19,27.9,1,5.3,0,The Energy Check Stadium at Firhill,10102,2017
+367,rayo-vallecano,Rayo Vallecano,ES1,25,28.7,8,32,6,Campo de Fútbol de Vallecas,15105,2022
+3709,fc-getafe,Getafe CF,ES1,25,27.8,12,48,9,Coliseum Alfonso Pérez,16800,2022
+380,us-salernitana-1919,US Salernitana 1919,IT1,27,26.8,17,63,12,Arechi,29739,2022
+41,hamburger-sv,null,L1,30,23.6,15,50,4,Volksparkstadion,57000,2017
+43,heart-of-midlothian-fc,Heart of Midlothian FC,SC1,29,26.5,16,55.2,9,Tynecastle Park,19852,2022
+465,st-mirren-fc,St. Mirren FC,SC1,23,26.7,14,60.9,6,The SMISA Stadium,8023,2022
+468,sparta-rotterdam,Sparta Rotterdam,NL1,24,26.1,9,37.5,1,"Sparta-stadion ""Het Kasteel""",11026,2022
+472,ud-las-palmas,null,ES1,26,26.8,6,23.1,1,Estadio de Gran Canaria,32400,2017
+660,shakhtar-donetsk,Shakhtar Donetsk,UKR1,31,24.7,6,19.4,14,Arena Lviv,34915,2022
+749,fc-empoli,FC Empoli,IT1,30,25.2,14,46.7,9,Carlo Castellani,19847,2022
+750,fc-sochaux-montbeliard,null,FR1,25,26.2,11,44,4,Stade Auguste-Bonal,20005,2013
+82,vfl-wolfsburg,VfL Wolfsburg,L1,25,24.6,15,60,10,Volkswagen Arena,30000,2022
+940,celta-vigo,Celta de Vigo,ES1,23,26.3,10,43.5,6,Abanca Balaídos,29000,2022
+976,cf-uniao-madeira,null,PO1,0,,0,,0,Centro Desportivo da Madeira,2500,2015
+987,motherwell-fc,Motherwell FC,SC1,29,25.9,19,65.5,4,Fir Park,13750,2022
