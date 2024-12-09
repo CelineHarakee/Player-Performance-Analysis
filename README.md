@@ -1,4 +1,4 @@
-# Player-Performance-Analysis
+# Player Performance Analysis
 This project explores the factors influencing football players' performance by analyzing statistical and match-related data. It aims to build a comprehensive dataset and conduct detailed analyses to uncover insights into what drives players to excel in matches.
 
 ### Project Objectives
