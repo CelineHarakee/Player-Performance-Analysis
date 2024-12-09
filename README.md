@@ -9,10 +9,10 @@ This project explores the factors influencing football players' performance by a
 - **Data Sources:** The dataset used in this project includes detailed player statistics, match information, and external factors. Key features are combined with match-related variables. All data is stored in the **`data`** folder, organized for easy access and analysis.
 - **Code:** The analysis and prediction process is executed in a Jupyter Notebook file **`code.ipynb`**. The code covers data preprocessing, feature selection, and model building. The machine learning model is built using Random Forest Regressor, a robust algorithm that is ideal for regression tasks like goal prediction. The notebook also includes data visualizations to provide insights into the relationships between different features and player performance.
   #### The key steps in the notebook include:
-- **Data Preprocessing:** Cleaning and transforming raw data into a format suitable for model training.
-- **Model Training:** Using the Random Forest algorithm to predict the number of goals scored by players.
-- **Evaluation:** Assessing model performance using metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared score.
-- **Visualization:** Visualizing trends and distributions to gain a better understanding of player performance and key metrics.
+1. **Data Preprocessing:** Cleaning and transforming raw data into a format suitable for model training.
+2. **Visualization:** Visualizing trends and distributions to gain a better understanding of player performance and key metrics.
+3. **Model Training:** Using the Random Forest algorithm to predict the number of goals scored by players.
+4. **Evaluation:** Assessing model performance using metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared score.
 
 The insights from this analysis can help coaches, analysts, and fans understand the dynamics of player performance in international football, providing a data-driven perspective on the sport.
 
