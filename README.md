@@ -2,7 +2,7 @@
 This project explores the factors influencing football players' performance by analyzing statistical and match-related data. It aims to build a comprehensive dataset and conduct detailed analyses to uncover insights into what drives players to excel in matches.
 
 ### Project Objectives
-- **Data Integration:** Combine datasets related to player statistics, match information, and external factors like weather conditions to create a rich, unified dataset.
+- **Data Integration:** Combine datasets related to player statistics, match information, and external factors to create a rich, unified dataset.
 - **Performance Prediction:** Identify key variables and patterns to predict player performance.
 
 ### Overview
